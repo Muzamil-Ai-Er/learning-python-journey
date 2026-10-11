@@ -1,1 +1,1 @@
-In this repo i commit everything that i learned about python.
+Here i push everthing i learn about python everyday! from basics to advance.
